@@ -45,7 +45,7 @@ public class BMI {
         JLabel txt = new JLabel ("Insert :");
         JLabel FName = new JLabel ("First Name :");
         JLabel LName = new JLabel ("Last Name :");
-        JLabel sexe = new JLabel ("Gander :");
+        JLabel sexe = new JLabel ("Gender :");
         JLabel bd = new JLabel ("Age :");
         JLabel field = new JLabel ("Height : (m)");
         JLabel field2 = new JLabel ("Weight :(Kg)");
